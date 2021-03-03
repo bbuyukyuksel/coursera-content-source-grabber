@@ -1,4 +1,4 @@
-# Coursera Content Source Grabber [JVS]
+# Coursera Content Source Grabber [CCSG]
 
 **Versiyon	:**  1.0 		<br />
 **Lisans  	:**  GPL 		<br />
