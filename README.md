@@ -19,10 +19,10 @@ It realizes the grabbing of the source links of the contents in the course.
 		<th colspan=3> <b> Application Screenshots </b> </th>	
 	</tr>
 	<tr>
-		<td><img src = "SS/SS-01.png" height=200px width=100% /> </td>
+		<td><img src = "SS/SS-01.png"  /> </td>
 	</tr>
 	<tr>
-		<td><img src = "SS/SS-02.png" height=200px width=100% /> </td>
+		<td><img src = "SS/SS-02.png"  /> </td>
 	</tr>
 </table>
 
