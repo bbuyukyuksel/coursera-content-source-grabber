@@ -20,6 +20,8 @@ It realizes the grabbing of the source links of the contents in the course.
 	</tr>
 	<tr>
 		<td><img src = "SS/SS-01.png" height=200px width=100% /> </td>
+	</tr>
+	<tr>
 		<td><img src = "SS/SS-02.png" height=200px width=100% /> </td>
 	</tr>
 </table>
@@ -31,4 +33,4 @@ It realizes the grabbing of the source links of the contents in the course.
 * The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
 * Enable Developer Mode by clicking the toggle switch next to Developer mode.
 * Click the LOAD UNPACKED button and select the extension directory.
-<img src = "SS/SS-Google.png" height=200px width=100% />
+<img src = "SS/SS-Google.png" />
